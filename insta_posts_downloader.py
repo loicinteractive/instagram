@@ -3,7 +3,7 @@ A script to download all pictures from an Instagram account.
 
 Author: Javed Ali 
 Email: javedali28@gmail.com
-Date: April 2, 2024
+Date: January 24, 2025
 
 This script allows users to download all posts (images and videos) from a specified Instagram
 profile, whether public or private. For private profiles, the user must provide their own
